@@ -1,4 +1,10 @@
-# NestJS Mailer
+# NestJS Mailer JM
+
+This is just a fork of the original @nestixis/nestjs-mailer to fix dependency issues and use on a personal project, I highly recommend using the original project.
+
+# AGAIN! This is a fork of @nestixis/nestjs-mailer
+
+## Here are the original instructions
 
 @nestixis/nestjs-mailer is a NestJS module that integrates nodemailer for sending emails and uses React to render email templates. 
 
