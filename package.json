@@ -1,7 +1,7 @@
 {
-  "name": "@nestixis/nestjs-mailer",
-  "version": "1.0.2",
-  "description": "NestJS implementation for Nodemailer and React",
+  "name": "@jorgemaciaspina/nestjs-mailer-jm",
+  "version": "0.0.1",
+  "description": "NestJS implementation for Nodemailer and React Forked from nestixis/nestjs-mailer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "directories": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nestixis/nestjs-mailer.git"
+    "url": "git+https://github.com/jorgemaciaspina/nestjs-mailer-jm.git"
   },
   "keywords": [
     "nestjs",
@@ -25,9 +25,9 @@
   "author": "Nestixis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nestixis/nestjs-mailer/issues"
+    "url": "https://github.com/jorgemaciaspina/nestjs-mailer-jm/issues"
   },
-  "homepage": "https://github.com/Nestixis/nestjs-mailer#readme",
+  "homepage": "https://github.com/jorgemaciaspina/nestjs-mailer-jm#readme",
   "peerDependencies": {
     "@nestjs/common": "^11.1.9",
     "@react-email/render": "^1.0.3",
