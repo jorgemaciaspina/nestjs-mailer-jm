@@ -11,7 +11,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc","prepare": "npm run build",
     "tsc:publish": "tsc && npm publish"
   },
   "repository": {
